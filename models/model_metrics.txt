@@ -1,0 +1,6 @@
+模型：XGBoost（兼容低版本）
+训练时间：2025-11-25 09:33:54
+R²：0.8376
+RMSE：26.62 美元
+迭代轮数：200
+特征列：['distance_traveled', 'num_of_passengers', 'distance_sq', 'passenger_distance', 'is_high_passenger']
